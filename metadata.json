@@ -1,0 +1,6 @@
+{
+  "name": "Studyboard Collaborative Whiteboard",
+  "description": "A live collaborative whiteboard for study groups with drawing tools, sticky notes, shapes, and an AI tutor for all subjects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
